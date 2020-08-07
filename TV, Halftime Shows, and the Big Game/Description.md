@@ -1,4 +1,8 @@
-## Introduction:
+# PROJECT: 
+## TV, Halftime Shows, and the Big Game
+#### (Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.)
+
+## Project Description:
 Whether or not you like football, the Super Bowl is a spectacle. There's drama in the form of blowouts, comebacks, and controversy in the games themselves. There are the ridiculously expensive ads, some hilarious, others gut-wrenching, thought-provoking, and weird. The half-time shows with the biggest musicians in the world, sometimes [riding giant mechanical tigers](https://youtu.be/ZD1QrIe--_Y?t=14) or [leaping from the roof of the stadium](https://youtu.be/mjrdywp5nyE?t=62). And in this project, you will find out how some of the elements of this show interact with each other. You will answer questions like:
 
 1. What are the most extreme game outcomes?
@@ -19,3 +23,13 @@ The dataset used in this project was scraped and polished from Wikipedia. It is 
 8. Who has the most halftime show appearances?
 9. Who performed the most songs in a halftime show?
 10. Conclusion
+
+## Technology 
+Python
+
+## Topics
+DATA MANIPULATION
+
+DATA VISUALIZATION
+
+IMPORTING & CLEANING DATA
