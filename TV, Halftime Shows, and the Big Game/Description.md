@@ -25,11 +25,11 @@ The dataset used in this project was scraped and polished from Wikipedia. It is 
 10. Conclusion
 
 ## Technology 
-Python
+<b>Python</b>
 
 ## Topics
-DATA MANIPULATION
+- DATA MANIPULATION
 
-DATA VISUALIZATION
+- DATA VISUALIZATION
 
-IMPORTING & CLEANING DATA
+- IMPORTING & CLEANING DATA
