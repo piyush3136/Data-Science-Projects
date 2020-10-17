@@ -1,4 +1,3 @@
-# Project: 
 # The Android App Market on Google Play
 #### Load, clean, and visualize scraped Google Play Store data to understand the Android app market.
 
@@ -30,8 +29,9 @@ The [data]('https://www.kaggle.com/lava18/google-play-store-apps') for this proj
 
 9. Sentiment analysis of user reviews
 
-## Technology
+## Tools
 <b>Python</b>
+<b>Jupyter Notebook</b>
 
 ## Topics
 - DATA MANIPULATION
